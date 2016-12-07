@@ -1,0 +1,8 @@
+---
+version: 1
+columns: 1
+export-width: "0.7\x0Flumnwidth"
+web-width: 500px
+align: center
+float: h!
+path: figures/table/config.yml
